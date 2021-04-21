@@ -1,0 +1,17 @@
+@charset "UTF-8";
+html,body{
+  height: 100%;
+}
+*{ margin: 0; padding: 0;}
+
+#txt{
+  width: 250px;
+  height: 100px;
+  background: powderblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: red;
+  box-shadow: 0 0 5px skyblue;
+  text-shadow: 0 0 1px orange;
+}
